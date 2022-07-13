@@ -20,8 +20,9 @@ h1 {
     font-size: 48px;
 }
 
-.seo {
-    color: #d9dcd6;
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 h3 {
@@ -53,6 +54,10 @@ a {
 
 p {
     font-size: 16px;
+}
+
+.seo {
+    color: #d9dcd6;
 }
 
 .hero {
@@ -113,21 +118,6 @@ p {
 
 .search-engine-optimization img {
     max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 footer {

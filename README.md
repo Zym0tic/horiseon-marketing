@@ -11,7 +11,7 @@ clone and pull the repo to your device and open it up with a text editor.
 
 ## Usage 
 
-this is a basic hopepage for visual use only.
+this is a basic homepage for visual use only.
 
 ## Link
 
